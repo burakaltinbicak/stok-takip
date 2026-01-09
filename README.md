@@ -65,7 +65,7 @@ Projeyi bilgisayarınızda çalıştırmak için:
 
 1.  Repoyu klonlayın:
     ```bash
-    git clone [https://github.com/burakaltinbicak/StokMaster-Pro.git](https://github.com/KULLANICI_ADINIZ/StokMaster-Pro.git)
+    git clone [https://github.com/burakaltinbicak/StokMaster-Pro.git](https://github.com/burakaltinbicak/StokMaster-Pro.git)
     ```
 2.  Proje dizinine gidin ve Maven ile bağımlılıkları yükleyin.
 3.  `StokTakipApplication.java` dosyasını çalıştırın.
